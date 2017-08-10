@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula01 Bem Vindos</string>
+    <string name="nome_do_aluno">Nome do Aluno:</string>
+    <string name="mostrar_nome">Mostrar Nome</string>
+</resources>
